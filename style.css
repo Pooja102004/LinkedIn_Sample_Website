@@ -1,0 +1,108 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.logo{
+
+border-radius: 6px;
+
+background: cornflowerblue;
+
+padding: 4px;
+}
+.searchbox{margin-top: 6px;}
+.icons{
+cursor: pointer;
+margin-left: 45px;
+}
+.trending{
+
+}
+.bpara{
+
+}
+.icon{
+cursor: pointer;
+}
+.icons:hover{
+    color: black !important;
+}
+.hpara{
+
+}
+.colpara{
+    
+}
+.post-image{
+
+}
+.left-content{
+    margin: 37px;
+}
+.right-content{
+
+margin: 40px;
+}
+.center-content{
+
+margin: 40px;
+}
+.navs{
+    display: flex;
+}
+.item{
+
+font-size: 12px;
+}
+.secb{
+    margin: 5px;
+    padding: 3px;
+    border: 3px solid darkgrey;
+}
+.seca{
+
+padding: 5px;
+
+margin: 3px;
+
+border: 3px solid darkgrey;
+}
+.ppara{
+
+}
+.btn{}
+li{
+    list-style: none;
+}
+.str{
+
+}
+.secc{
+
+padding: 3px;
+
+border: 3px solid darkgrey;
+}
+.secd{
+
+padding: 3px;
+
+border: 3px solid darkgray;
+}
+.sece{
+
+padding: 3px;
+
+margin: 5px;
+
+border: 3px solid darkgray;
+}
+.secf{
+
+padding: 3px;
+
+margin: 5px;
+
+border: 3px solid grey;
+}
